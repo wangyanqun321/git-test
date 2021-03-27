@@ -15,5 +15,6 @@ public class Commit2 {
         System.out.println("commit 9");
         System.out.println("commit 11");
         System.out.println("commit 14");
+        System.out.println("commit 12");
     }
 }
