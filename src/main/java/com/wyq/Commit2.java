@@ -7,6 +7,7 @@ public class Commit2 {
         System.out.println("commit 4");
         System.out.println("commit 5");
         System.out.println("commit 9");
+        System.out.println("commit 10");
         System.out.println("commit 6");
         System.out.println("commit 7");
         System.out.println("commit 8");
